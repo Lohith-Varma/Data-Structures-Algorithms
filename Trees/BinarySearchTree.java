@@ -67,5 +67,6 @@ public class BinarySearchTree {
         else {
             System.out.println("Element not found");
         }
+        sc.close();
     }
 }
